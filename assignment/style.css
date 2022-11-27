@@ -1,11 +1,6 @@
 body{
-    background-image: ulr('../record.png');
     background: linear-gradient(skyblue, lightgreen);
-    background-repeat: repeat-x;
-    background-attachment: fixed;
-    background-image: ulr("/assignment/record.png");
-    background-image: ulr("record.png");
-    background-size: cover;
+    background-image: url("record.png");
     padding: 0px;
     margin: 0px;
 }
